@@ -3,8 +3,6 @@ title: '14'
 contentType: prose
 ---
 
-  
-
 Ano, byl to pro děti otřes, co matka učinila, ale v životě je třeba smířit se s ledačíms.
 
 „Dnes, nejdražší,“ řekl dětem v jídelně pan Kopfrkingl, stoje pod lampou s novinami v rukou, „dnes je život velký boj, žijeme ve velké převratné době a je třeba statečně nést všechny oběti a strasti. Naše nebeská je už blažená jako její matka. Laskavá příroda ji vytrhla z okovů tohoto světa, v klidu se vrátila tam, odkud vzešla, v prach, éter se jí otevřel a možná že už v této chvíli došla v nové tělo, žeh uspišuje… Byla to hodná, dobrá žena,“ řekl s novinami v rukou, „věrná, tichá, skromná, světlo věčné jí už svítí, je už ve svatém pokoji.“ Pak s pohledem do novin řekl:
@@ -43,13 +41,15 @@ Mili si koupil eskymo a věneček a šli dál. Poblíž vinohradského hřbito
 
 „Škoda,“ řekl Milimu a hlas se mu mírně zachvěl, „škoda že tvá nebeská matka není s námi.“ Pak si všiml reklamy a měl dojem, jako by z ní chtělo pár písmenek vyskočit:
 
-Závěsy a stóry opravuje
+  
 
-JOSEFA BROUČKOVÁ
+> Závěsy a stóry opravuje
 
-PRAHA-HLOUBĚTÍN
+> JOSEFA BROUČKOVÁ
 
-Kateřinská 7
+> PRAHA-HLOUBĚTÍN
+
+> Kateřinská 7
 
   
 

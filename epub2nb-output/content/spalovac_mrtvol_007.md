@@ -3,8 +3,6 @@ title: '2'
 contentType: prose
 ---
 
-  
-
 V dřevěné pokladně u stanu seděl starší tlustší mužík v bílém tvrdém límci a červeném motýlku a prodával lístky. Vchod do stanu byl zakryt rudým závěsem s třásněmi a stál před ním hlouček lidí, který zřejmě čekal, až bude vpuštěn. Pan Kopfrkingl koupil v dřevěné pokladně lístky a pak popošel s drahými k hloučku.
 
 „To bude něco hroznýho?“ zeptal se Mili nejistě, hledě na stan, na malované kostlivce na stěně a na vchod s rudým závěsem s třásněmi, a pan Kopfrkingl smutně kývl hlavou.
@@ -55,7 +53,7 @@ Prošli pod závěsem a ocitli se v kumbálu s dřevěnými umyvadly, škopky
 
 „Jsme v lázních Na Františku poblíž domku rasa,“ ráčkovala rychle majitelka, „chodí sem hosti, aby měli čisté tělo a kvetla jejich krása. Tenhle člověk, to je,“ ukázala na mladíka za hlavou ženy v kádi, „paknecht, lazebník a zuvač, je také holič, ranhojič a městský trubač. Jeho děd byl svícník, lil svíce z vosku a loje, pak vzal boty kordovanské a šel do boje, jeho otec byl šlejfíř, co brousí, dělal též hrnce a měl dlouhé fousy. Ta žena v jupici, zástěře, fěrtochu se škopkem je hlídačka šatů, utěračka, pomáhačka a služka, bývala kdysi také leckterého návštěvníka družka. Ta žena v kádi je choť, která utekla muži bradýři a jednou za to stála na rynku v pranýři, teď se šlechtí v lázni ve strachu a bázni. A tuhle v těch vanách jste už našeho nešťastného písaře a pohodného poznali, co k moru u medika se doznali. Teď se koupou v růžové vodě, kamforu a octu a nic nešťastníci neprosí o bývalou poctu. A kdo je to tuhle v okně a všechno vidí? Světlo,“ křikla majitelka, a když světlo ozářilo hocha za síťkovanou záclonou, který rozkročen ukazoval na lidi ve vanách a smál se, uklonila se hluboce a řekla: „To je náš skřítek, nejlepší z lidí. Tvář úsměvem křiví a je jak živý. Rád by nešťastným pomohl, _dobrý,_ kdyby nebyl tak _chudý._ A teď, dámy, páni, vizte, jak se krutý život konci chýlí, neb život je jak býlí. Za mnou stále, račte dále. Tma,“ tleskla. Výjev v lázni se potopil do tmy, vzadu na prknech se ozvaly rychlé skoky, kroky… a všichni prošli dalším závěsem.
 
-Ocitli se v úplné tmě, ale trvalo to jen chvilku. Ze stropu vyrazilo světlo, několik žen v hloučku diváků vykřiklo, návštěvnice s pérem na klobouku křikla „hrůza“, pan Kopfrkingl se smutným úsměvem stiskl Lakmé a trochu se pootočil po Zině a Milim. Před diváky, obehnán černým síťkovaným pozadím, _visel oběšený pohodný na skobě._ Měl černou kapuci a kutnu, svěšené ruce a nohy, tvář žlutou, vyplazený jazyk a vypouklé oči, provaz, na němž visel, se s ním mírně točil.
+Ocitli se v úplné tmě, ale trvalo to jen chvilku. Ze stropu vyrazilo světlo, několik žen v hloučku diváků vykřiklo, návštěvnice s pérem na klobouku křikla „hrůza“, pan Kopfrkingl se smutným úsměvem stiskl Lakmé a trochu se pootočil po Zině a Milim. Před diváky, obehnán černým síťkovaným pozadím, _visel oběšený pohodný na skobě._ Měl černou kapuci a **kutnu,** svěšené ruce a nohy, tvář žlutou, vyplazený jazyk a vypouklé oči, provaz, na němž visel, se s ním mírně točil.
 
 „Ano,“ křikla majitelka a blýskla prsteny na ruce, „oběsil se náš nešťastný pohodný, neb při vší hrůze, strachu z moru to byl člověk rozhodný. Nechtěl, by se trápil, týral, nakazil dále, svůj život radši uťal nenadále, jeho tělo tady na té skobě mrtvé visí a už nikdo na světě ho nevzkřísí.“
 

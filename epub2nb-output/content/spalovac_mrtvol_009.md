@@ -3,8 +3,6 @@ title: '4'
 contentType: prose
 ---
 
-  
-
 Dnes už byl pátek a stařena, když viděla přicházet pana Kopfrkingla, už pokyvovala. Stávala tu každý pátek ráno a v sobotu odpoledne, i když pršelo, i v zimě, když padal sníh. Teď však bylo léto, neměla ani šátek a vypadala jako šedivá sudička. Pan Kopfrkingl jí dal šesták a vešel k vrátnici nádvoří. Pohlédl na zarámovaný program dnešního dne, bylo to pět mužů a pět žen, mezi nimi třicetiletá paní Strunná. Pan Kopfrkingl se pozdravil s panem Vránou, který byl nemocen s játry a vařil si ve vrátnici čaj, a pomalu kráčel liduprázdným nádvořím k budově. Patnáct let vcházím kolem pana Vrány a jeho vrátnice do Chrámu smrti, myslil si, střídavě hledě na dlaždice na zemi a na čiré modré nebe nad budovou, patnáct let sem takhle vcházím a nepřestává mě obestírat posvátný cit. Je to něco podobného jako mé manželství. Sedmnáct let jsem s Lakmé, pohlédl na ruku, na níž měl snubní prsten, a vzrušuje mě stejně jako první den, když jsme se seznámili v zoologické zahradě u leoparda, šťastná lidská láska. Chudáci, co ji nikdy nepoznali… Pak vešel do budovy, kde v druhé vrátnici seděl pan Fenek. Pan Fenek byl starý utrápený podivín s dlouhým nehtem na malíčku. Za vrátnicí měl kumbál s kanapem, skříňkou a židlí. Když pan Kopfrkingl šel kolem, pan Fenek sklopil hlavu a zachvěl novinami, které držel v ruce a snad předtím četl, pan Kopfrkingl se usmál a kývl. Pak prošel kouskem chodby a vešel do šatny. Beran a Zajíc byli už v montérkách.
 
 „Už jsi to četl,“ řekl Zajíc, „Angličané nás nutí, abychom henleinov­cům ustoupili. Aby nás tak ještě s tou Francií nechali napospas Němcům, mám takovou starost…“
@@ -24,6 +22,8 @@ Vyšli na chodbu a pan Dvořák se nesměle zeptal, zda si smí zapálit cigare
 „Samozřejmě,“ kývl pan Kopfrkingl, „proč byste nesměl. Nejsme v kinu ani v nemocnici, jsme uprostřed ohně. Jen, pane Dvořák, kuřte, když vám to udělá dobře. Děkuji,“ poděkoval vlídně za nabízenou cigaretu, „já nekouřím. Také nepiji, jsem abstinent. Ale kdybyste si myslil, že by vám sklenka něčeho pro začátek pomohla, klidně se, pane Dvořák, i napijte. My abstinenti musíme mít rozum a pochopení,“ usmál se pan Kopfrkingl vlídně a pak začal Dvořákovi vykládat Chrám smrti.
 
 „Tenhle mikrofon,“ řekl, ukazuje na mikrofon, který se černal na bílých kachlíčkách, „ten je tu proto, abychom slyšeli průběh z obřadní síně. Průběh z obřadní síně, pane Dvořák, poslouchat můžete, uslyšíte krásné řeči a vznešenou hudbu. Máte rád hudbu, pane Dvořák?“ zeptal se, a když mladík, sypaje si popel z cigarety do dlaně, kývl, pan Kopfrkingl řekl: „To je, pane Dvořák, dobře. Citliví lidé hudbu zpravidla milují. Chudáci, kteří umírají, aniž poznali krásu Schuberta či Liszta. Nepocházíte snad z příbuzenstva Antonína Dvořáka, autora Čerta a Káči, Šelmy sedláka, Rusalky…“ a když pan Dvořák zavrtěl hlavou, pan Kopfrkingl omluvně řekl: „U nás často uslyšíte Dvořákovo Largo z Novosvětské, Fibichův Poem, Zasviť mi ty slunko zlaté, Čechy krásné, Čechy mé… tak to je mikrofon. Tenhle knoflík,“ pan Kopfrkingl ukázal na knoflík na bílém kachlíku, „otevírá železnou oponu obřadní síně a pouští lidi do éteru. Ale tu my teď za nového ředitele otevíráme jen někdy. Zpravidla nám ji otevírá pan Pelikán nahoře. Pan Pelikán a ředitel jsou slušní lidé, dobře s nimi vycházíme, uklízí jim tam paní Podzimková… A nyní pohleďte na tuto tabulku,“ řekl pan Kopfrkingl a přistoupil s Dvořákem ke zdi, na níž visela tabulka na černé hedvábné šňůře.
+
+  
 
    
 
@@ -92,6 +92,10 @@ II.
 15.30–16.00
 
 16.15–17.30
+
+  
+
+  
 
 „Zdá se vám to asi složité,“ usmál se pan Kopfrkingl, „to je však jen zdání. Ve skutečnosti je to velmi prosté. První obřad začíná,“ ukázal na první sloupec čísel a snubní prsten na ruce se mu blýskl, „v osm hodin, každý obřad trvá půl hodiny, jsou dvě žároviště a dokonalá proměna jednoho nebožtíka v popel teď, když zavedli místo koksu plyn, trvá hodinu a patnáct minut. Lze si tedy vypočítat, že první dvě rakve mizí v žárovišti hned po obřadu, po otevření opony, a tady na těch číslech,“ ukázal na čísla, „to také vidíte. Ale už třetí rakev,“ ukázal na třetí řádku, „musí patnáct minut čekat na slepé koleji, protože v prvním žárovišti není ještě pro ni místo, a pátá a šestá musí čekat dokonce třicet minut, jak vidíte zde… V poledne máme asi tak hodinovou pauzu, když je hezky, můžete se jít, pane Dvořák, projít na hřbitov. Půjdete-li _zadem_, dostanete se z našeho hřbitova na hřbitov vinohradský, ani nemusíte jít kolem vrátnice pana Vrány na nádvoří. Jsou-li odpoledne čtyři pohřby, dostaneme se pod boží nebe v šest,“ pan Kopfrkingl ukázal na strop, jako by ukazoval na nebe, a chvíli hleděl vzhůru, jako by tam viděl hvězdy, pak se usmál na Dvořáka, který sklesle hleděl na tabulku, kouřil a sypal popel do dlaně, a pokračoval:
 
