@@ -71,7 +71,11 @@ Willi Reinke se odpoutal a pan Kopfrkingl si řekl:
 
 „Ani mi nedal ten šesták, co mi měl naoko dát, bylo to zbytečné. Skoro bych měl z téhle podivuhodné věci horečku, je to podivuhodnější než stříbrné pouzdro. Je to skoro tak zajímavé a podivné, tahle má proměna, proměna, jako převtělování dalajlámy v mé knize o Tibetu, ač to s tím vůbec nesouvisí, tohle je přece jen taková má obyčejná maska, nic víc. Kdyby mě tak viděl ten náš pan Fenek, chudák, nebo chudák pan Dvořák,“ vzpomněl si znovu, „ale to nic. Mé čelo je chladné jako kov, má ruka pevná a mé srdce bije jako z germánské oceli, je to zkouška!“ A ocelově chladně se ve své masce vmísil mezi ty ubohé nešťastné lidi na ulici…
 
+  
+
 Před židovskou radnicí v Maislově stála modrá osobní tatrovka a pan Kopfrkingl se k ní začal belhat, jak nejlépe uměl. Viděl rozsvícenou lampu, za ní zasklenou tabulku a vedle vchod. „Jak tenhle vchod vypadá,“ řekl si v duchu a belhal se, jak nejlépe uměl, „zde není po mramoru a schodech ani stopy, je tu jen šedá omítka a černá vrata s kováním, no ovšem, tohle není německé Casino, tohle je židovská radnice…“ Chvíli okouněl u tatrovky, přes brejličky hleděl na její modrou barvu, koukal napravo, nalevo, dával tváři výraz bezmocnosti… do radnice šlo několik lidí a všimli si ho. „Musím k té tabulce u vchodu,“ řekl si a dotáhl nohu k tabulce u vchodu, dotkl se brýlí, a aniž napřímil trup, jal se číst:
+
+  
 
 > _CHEVRA SUDA_
 
