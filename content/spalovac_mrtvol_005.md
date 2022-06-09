@@ -3,8 +3,8 @@ title: ''
 contentType: prose
 ---
 
-Největší lstí ďábla je,  
+_Největší lstí ďábla je,  
 když sám o sobě prohlašuje,  
-že není.
+že není._
 
 Giovanni Papini

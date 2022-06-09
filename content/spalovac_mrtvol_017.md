@@ -3,8 +3,6 @@ title: '12'
 contentType: prose
 ---
 
-  
-
 „Jsme zde,“ pan Kopfrkingl se dost nenápadně nadýchl pod zelenými košatými stromy, jako by si chtěl tajně pročistit plíce, „jsme zde.“ Pak si pohladil vlasy, kterými mu provál slabý větřík, ukázal vzhůru a řekl:
 
 „Jaká je to výška. Až tam vyjedeme, budeme nebi blíž o šedesát metrů. No ale to nic,“ usmál se na Lakmé v tmavých šatech a bílém krajkovém límečku, na Zinu v černých hedvábných šatech z narozenin a na Miliho v rádiovce, který lízal eskymo, „to nic. Dějí se velké věci a my je musíme chápat. Když se nekonají vyhlídkové lety, když nemůžeme Prahu vidět z letadla, vyjedeme aspoň semhle a uvidíme ji z šedesáti metrů. Je lepší vidět Prahu z šedesáti metrů než z ničeho,“ řekl a v duchu si myslil než z ničeho nebo ze země anebo z _hloubky ještě větší._ Pak kývl a vybídl své drahé k vstupu dovnitř.
@@ -77,7 +75,7 @@ Opět popošli vlevo, pan Kopfrkingl, Lakmé, děti, k jihu, k místu, kde byl
 
 „A co bys dolů chodila, prosím tě,“ odsekl muž, „pojedeš výtahem.“
 
-„Copak jezdí ňákej výtah?“ řekla žena, „prosím tě, nemluv. Jakej výtah by jezdil, nejsi v Ňujorku. Seš v rajchu.“
+„Copak jezdí ňákej výtah?“ řekla žena, „prosím tě, nemluv. Jakej výtah by jezdil, nejsi v Ňujorku. Seš **v** **rajchu****.“**
 
 „Prosím tě, nežvaň,“ křikl muž rozzlobeně a něčím teď bouchl do podlahy, „co by výtah nejezdil? Copak si sem s ním nepřijela? Copak nás sem nedovez? Copak si sem _vylejzala_ pěšky?“
 
@@ -85,7 +83,7 @@ Opět popošli vlevo, pan Kopfrkingl, Lakmé, děti, k jihu, k místu, kde byl
 
 „Jak víš, otče,“ řekla Zina, „že to byla žena?“
 
-„To už se tak pozná,“ usmál se pan Kopfrkingl, „pozná citem. Též podle hudby, kterou jsme prve zaslechli,“ usmál se. „Chudák, bude jí trvat dlouho, než se rozpadne. Aspoň dvacet let. V žárovišti by to měla za pětasedmdesát minut.“
+„To už se tak pozná,“ usmál se pan Kopfrkingl, „pozná **citem****.** Též podle hudby, kterou jsme prve zaslechli,“ usmál se. „Chudák, bude jí trvat dlouho, než se rozpadne. Aspoň dvacet let. V žárovišti by to měla za pětasedmdesát minut.“
 
 „Vyvrknu si nohu a ty se zabíš,“ pískla žena za ohbím, „ty schody jsou točitý. Naraž si rači ten tvůj klobouk, nebo ti slítne dolů.“
 

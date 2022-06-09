@@ -3,8 +3,6 @@ title: '6'
 contentType: prose
 ---
 
-  
-
 Dosavadní vláda odstoupila a v čelo nové nastoupil jednooký generál, pak vyhlásili mobilizaci. Život se ocitl v děsném kole, ale všechno drželo pohromadě, běželo, letělo vpřed, jen doletět, narazit a tasit zbraně. Za několik dní po vyhlášení mobilizace přinesl pan Fenek do krematoria zvláštní věc.
 
 „Vidíte to, pane Kopfrkingl,“ hořekoval ve vrátnici a strkal panu Kopfrkinglovi pod oči jakousi zasklenou vitrínku, „vidíte to? Tady na těch papírových čtverečcích jsou nalepené mouchy. Tady ty se jmenují banánové čili drosophily, hmyz dvoukřídlý, pane Kopfrkingl, zkoušejí na nich dědičnost. Tahle, pane Kopfrkingl,“ pan Fenek ukázal dlouhým nehtem na malíčku, „má dvě stě druhů a tahle se jmenuje drosophila _funebris._ Nechtěl byste tu vitrínku? Dal bych vám ji, pane Kopfrkingl, lacino. Za špetku…“ pan Fenek ztišil hlas a pozdvihl své zaslzené oči, „za špetku morfia…“
@@ -85,7 +83,7 @@ Když později odpoledne přecházel pan Kopfrkingl kolem vrátnice pana Fenka, 
 
 „Řekl jsem vám, že pan inženýr není v Praze,“ odvětil pan Kopfrkingl, „musíte mít trpělivost. Nemůže myslit na morfium, na hranicích stojí německá armáda a schází se konference v Mnichově. Může být válka a vy myslíte na morfium, pane Fenek,“ a pan Fenek zalezl. Ejhle, pan Kopfrkingl se až zarazil, dal jsem mu najevo trochu síly a chudák se dočista lekl. „Jdu teď ke knihaři dát si něco svázat, pane Fenek,“ řekl mu, aby ho trochu utišil, „a také se poohlédnu po nějakých šatech. Dcera bude mít narozeniny…“ a vyšel z budovy na nádvoří, u brány se pozdravil s vrátným panem Vránou, který tam seděl proto, že měl něco s játry, a pak jel elektrikou na Ovocný trh do knihařství pana Kádnera.
 
-„Pane Kádner,“ řekl pan Kopfrkingl v knihařství staršímu tlustému mužíku v bílém tvrdém límci s červeným motýlkem, který stál za pultem, a vyňal z aktovky nějaké listy, „pane Kádner, rád bych si dal tyhle listy svázat. Je to má druhá nejzamilovanější četba, kterou mám léta v knihovně. Léta v knihovně hned vedle žluté knihy o Tibetu, kterou jste mi svého času vázal taky. Je to zákon…“ řekl, „o kremaci ze 7. 12. 1921 a prováděcí nařízení z 9. 10. 1923. Je to tenké, je to jen pár listů, ale snad by se to mohlo dát do pěkných černých desek s nějakou stříbrnou linkou a vějičkou cypřiše, vešla by se taková ozdoba i na hřbet?“
+„Pane Kádner,“ řekl pan Kopfrkingl v knihařství staršímu tlustému mužíku v bílém tvrdém límci s červeným motýlkem, který stál za pultem, a vyňal z aktovky nějaké listy, „pane Kádner, rád bych si dal tyhle listy svázat. Je to má druhá nejzamilovanější četba, kterou mám léta v knihovně. Léta v knihovně hned vedle žluté knihy o Tibetu, kterou jste mi svého času vázal taky. Je to **zákon**…“ řekl, „**o kremaci** ze 7. 12. 1921 a prováděcí nařízení z 9. 10. 1923. Je to tenké, je to jen pár listů, ale snad by se to mohlo dát do pěkných černých desek s nějakou stříbrnou linkou a vějičkou cypřiše, vešla by se taková ozdoba i na hřbet?“
 
 „Slabá linka zajisté,“ řekl pan Kádner v tvrdém bílém límci a červeném motýlku, hledě na tloušťku listů, „ale cypřiš a text ne, ty musíme dát na desky. Bude to však trvat, pane Kopfrkingl, týden. Je mobilizace a dostali jsme zakázky z Červeného kříže. Lucie…“ Za pult vešla jakási starší žena v brýlích, ruku, kterou zřejmě měla mokrou, si utřela do hadříku, trpce se usmála a pan Kádner řekl:
 

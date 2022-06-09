@@ -3,8 +3,6 @@ title: '10'
 contentType: prose
 ---
 
-  
-
 „Willi mi dal balík v únoru a ejhle, dnes už psal,“ řekl pan Kopfrkingl v jídelně své tmavovlasé Lakmé, Zině a Milimu za čtvrt roku po Vánocích, „nuže tedy. Provedu to v místnosti, kterou mám nejradši z celého bytu, v koupelně, a nevyjdu dřív, než budu úplně hotov. _Úchvatné_,“ řekl a myslil všechny, „neklepejte na dveře a nic na mne nevolejte, ať se soustředím. Stoupněte si daleko ode dveří, ať se, až vejdu, neleknete, první dojem bude asi otřesný.“ Kývli dost nejistě, ba ustrašeně, pan Kopfrkingl vzal balík a zmizel v koupelně.
 
 „Tak jsem si vždycky říkal, když jsem přišel od toho našeho dobrého doktora Bettelheima, proč jen ten Hitler v tom Německu tak pronásleduje Židy,“ řekl si koupelně pan Kopfrkingl, a pohlédl na krásnou bílou vanu, na bílý lesklý ventilátor, kde na skobě visela šňůrka, a na žlutého motýla na zdi, „proč je tak pronásleduje, vždyť jsou to tak milí, laskaví a obětaví lidé. A teď už to vím, Willi mi to vysvětlil. Pronásleduje je proto, že jsou proti němu. Že jsou proti německému národu. Protože je to nešťastný, zbloudilý národ, který nechápe…“ Pan Kopfrkingl smutně svěsil hlavu a rozvázal balík.
@@ -78,6 +76,8 @@ Před židovskou radnicí v Maislově stála modrá osobní tatrovka a pan Kop
 > _CHEVRA SUDA_
 
 > _Pražská Chevra Kadiša pořádá v den narozenin a smrti našeho učitele Mojžíše dne 7. adaru, tj. 6. března 1939, společnou večeři „Chevra suda“. Tato suda se bude konat po modlitbě mincha v sále Pohřebního bratrstva v 1 8 hodin ve zdejší radnici. Při večeři promluví duchovní a vrchní kantoři zapějí náboženské zpěvy. Účastníci sudy budou podle tradice pohoštěni._
+
+  
 
 „Hostina,“ zašeptal pan Kopfrkingl s jednou nohou vzadu, „výročí narození a smrti Mojžíše, narodil se _týž den, co zemřel,_ jaká fantazie, jaký mýtus…“ usmál se a pak se usmál znovu a řekl si: „Sál _Pohřebního bratrstva._ Jaképak asi to Pohřební bratrstvo je a jakpak asi ten sál vypadá. Koberce, zrcadla, obrazy… koupelny… jako v Casinu…“ usmál se, „tam jistě nejsou. Bude to asi něco jako naše přípravna v kremaci nebo obřadní síň, ovšem bez křížku,“ a řekl si, že tihle chudáci se spalovat nedávají, jdou do země, kde to trvá dvacet let, dvacet let, než se navrátí v prach, z kterého vzešli, a řekl si: „Zbloudili i v tomhle, nechápou. Jak to řekl Willi? Tak starý národ, že už má sklerózu…“ Pak slyšel, že přichází víc lidí, otočil se, pokrčil rameny na předkloněném trupu, ještě více se nahrbil, prosebně zdvihl oči zpod brejliček a nastavil dlaň.
 

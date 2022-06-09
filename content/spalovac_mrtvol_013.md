@@ -3,8 +3,6 @@ title: '8'
 contentType: prose
 ---
 
-  
-
 V sále seděli skoro až u ringu a Miliho umístili mezi sebe jako růži mezi trní. Obecenstvo přicházelo, usedalo, jedlo eskymo, tu a tam i pilo pivo z lahví nebo půllitrů, v sále se totiž dalo pít pivo z půllitrů nebo z lahví, když si to člověk dal pod židli, byla tu mládež i dospělí a hodně žen, víc žen, než by byl kdo pomyslil. Pan Kopfrkingl zahlédl v první řadě jakousi starší ženu v brýlích, právě si nahýbala z půllitru, a o kus dál nějakou mladou růžolící dívku v černých šatech vedle mládence. Pak trochu pohlédl za sebe a všiml si jedné černé ženy u vchodu, která mu profilem a poprsím někoho připomínala. Podle smíchu, trhání ramen a zmalovaných úst ji měl za horší prostitutku. Pak si vzpomněl, že mu připomíná Maličkou od Malvazu.
 
 „Vidíš támhletu paní,“ řekl Milimu a sáhl do kapsy, „ne tu černou u vchodu, co trhá ramenem, tu v uličce, co prodává eskymo, běž a kup si, a kup taky program.“ Ale Willi ho předešel a dal chlapci peníze sám, byl hostitelem.
@@ -97,13 +95,13 @@ Zazněl gong, soudce dupl a začal zápas třetí. Byl prudký hned od začátk
 
 „Neblázni. Co děláš? Koukej se.“
 
-„Že se ten v motýlku nebrání,“ vypískla, vzrušeně se točíc po lidech, „aby ho neklepla mrtvice. Je to ňáký sběratel. Že nemá tu zelenou síťku…“
+„Že se ten v motýlku nebrání,“ vypískla, vzrušeně se točíc po lidech, „aby ho neklepla mrtvice. Je to ňáký **sběratel.** Že nemá tu **zelenou síť****ku…**“
 
 „Nekecej,“ zavrčel tlustý muž už vztekle a bouchl holí, kterou měl mezi stehny, o zem, „jaký sběratel, jakou zelenou síťku, říkám, že je to soudce, ten neboxuje.“
 
 A pak se strhl v ringu velký poprask, točilo se to tam jako v kole, rány létaly a dopadaly a jiné byly ve vzduchu, jen dopadnout a narazit… tlustý soudce v bílém tvrdém límci a červeném motýlku mezi tím lítal, skákal, dupal, rozhazoval ruce a náhle…
 
-… náhle ten z Jednoty se nahrbil, napjal svaly, lýtka, vyrazil… a než se kdo nadál, soudce vzlétl metr do vzduchu jako motýl, zamával rukama a ležel na zemi jak široký tak dlouhý… a vzápětí ten z Jednoty vyrazil znovu a k zemi se skácel i řeznický učeň… Sál zpola zahřměl smíchem, ženy vylétly ze židlí, ta starší v brýlích vyhodila do vzduchu půllitr, zpola se ozvalo hulákání, pískot, křik… „Je mrtvý,“ křikl do strašlivého burácení Mili a třásl se jako ovce.
+… náhle ten z Jednoty se nahrbil, napjal svaly, lýtka, vyrazil… a než se kdo nadál, soudce vzlétl metr do vzduchu **jako motýl,** zamával rukama a ležel na zemi jak široký tak dlouhý… a vzápětí ten z Jednoty vyrazil znovu a k zemi se skácel i řeznický učeň… Sál zpola zahřměl smíchem, ženy vylétly ze židlí, ta starší v brýlích vyhodila do vzduchu půllitr, zpola se ozvalo hulákání, pískot, křik… „Je mrtvý,“ křikl do strašlivého burácení Mili a třásl se jako ovce.
 
 „No a kdyby,“ usmál se Willi, „was denn…“
 

@@ -3,8 +3,6 @@ title: '5'
 contentType: prose
 ---
 
-  
-
 Doktor Bettelheim bydlil se svou starší krásnou chotí, synovcem Janem a hospodyní Anežkou Zelenou nad Kopfrkinglovými, nad jídelnou Kopfrkinglových měl starý lékař ordinaci, ale patřil mu ještě i byt vedlejší.
 
 Kdyby stropy v našem domě byly tenčí, myslil si pan Kopfrkingl v ordinaci, kde právě seděl zpola obnažen a trochu shrben na bílé kulaté židličce, kdyby byly tenčí… Ale jak by mohla má dobrá Lakmé poznat stropem, že ta šlápota zde nahoře je má? Jdu sem po ordinaci, kdy už v čekárně dobrého lékaře není ani jedna živá duše, a vlastně sem ani nejdu, nýbrž ven, na ulici, k cukráři, koupit nebeské nějakou sladkost, má to občas ráda, ale zdaleka ne tak jako Mili, a pak, myslil si, má dobrá Lakmé nikdy nebyla podezíravá. Věří stejně jako já, že naše manželství je vzorné a že nikdy za sedmnáct let, co trvá, nepřehnal se nad ním jediný mráček. Naše manželství, pomyslil si pan Kopfrkingl a pohlédl na snubní prsten na své ruce, je tak čisté jako nebe nad Chrámem smrti, když se v něm právě nikdo nespaluje.

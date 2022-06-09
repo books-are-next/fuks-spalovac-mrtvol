@@ -3,8 +3,6 @@ title: '3'
 contentType: prose
 ---
 
-  
-
 „Koupil jsem ti, nebeská, obrázky,“ řekl pan Kopffkingl nedlouho po návštěvě panoptika ženě v jejich obdivuhodné jídelně, kde kromě jiných věcí byla i knihovna, skříňka, stojací lampa, malé zrcadlo a rádio, „obrázky z prvního rozšířeného příjmu. Aby náš domov byl ještě nádhernější.“
 
 „A poukázal jsi již panu Straussovi provizi?“ zeptala se Lakmé.
@@ -127,6 +125,10 @@ II.
 
 16.15–17.30
 
+  
+
+  
+
 Willi pohlédl na tuto tabulku a mlčel. Pak pohlédl na exotický obraz, který visel vedle.
 
 „Prosím tě, Karl, kdo to je? To je nějaký váš předek?“
@@ -157,7 +159,7 @@ Pan Kopfrkingl hleděl teď na paní Reinkeovou a vlídně řekl:
 
 „Nikdy jsme u nás německy nemluvili,“ přisvědčil pan Kopfrkingl, „mám také samé české knihy… naše německá krev, vždyť je to kapka.“
 
-„Kapka,“ zasmál se Willi dost tvrdě a pohlédl na přítele Kopfrkingla, „kapka. Ale člověk se svědomím a srdcem cítí i tu kapku. Nebýt Hitlera, byli bychom, opakuji, na dně. Pošli bychom nezaměstnaností, chcípli bychom hlady, zahrabali by nás do země jako psy, to je tragédie,“ řekl Willi důrazně, „tady nejde o jednoho nebo dva lidi, o nějakou ženskou, která prodává kočky nebo se zbláznila v nějakém panoptiku, tady jde o národ. Tady trpí a strádá sto miliónů lidí! Ty pro jednu hloupou třísku v oku nevidíš les. Proto, že nějakého pana Strausse vyhodili z vrátnice, nevidíš celek!“
+„Kapka,“ zasmál se Willi dost tvrdě a pohlédl na přítele Kopfrkingla, „kapka. Ale člověk se svědomím a srdcem cítí i tu kapku. Nebýt Hitlera, byli bychom, opakuji, na dně. Pošli bychom nezaměstnaností, chcípli bychom hlady, zahrabali by nás do země jako psy, **to je** tragédie,“ řekl Willi důrazně, „tady nejde o jednoho nebo dva lidi, o nějakou ženskou, která prodává kočky nebo se zbláznila v nějakém panoptiku, tady jde o národ. Tady trpí a strádá sto miliónů lidí! Ty pro jednu hloupou třísku v oku nevidíš les. Proto, že nějakého pana Strausse vyhodili z vrátnice, nevidíš **celek!“**
 
 Willi pohlédl na hodinky a řekl, že v osm má ještě schůzku v německém Casinu s Boehrmannem. „Je to vedoucí pracovník SdP a jede do Berlína k poradě s ministrem Goebbelsem,“ řekl dost suše, „tahle republika stojí naší spáse v cestě. Ale to bych ti musel dlouho vykládat,“ řekl příteli Kopfrkinglovi, „to by byl dlouhý výklad, teď budeme musit s Ernou jít. Kdybychom neměli před domem auto, bylo by pozdě.“
 
